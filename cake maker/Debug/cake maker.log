@@ -1,0 +1,11 @@
+﻿  Cake.cpp
+  CakeMaker.cpp
+  CakeMenu.cpp
+C:\Users\40772\Desktop\c++\cake maker\CakeMenu.cpp(18,29): warning C4018: '<': signed/unsigned mismatch
+  CakeRecipe.cpp
+  CarouselOfCakes.cpp
+  CommandPanel.cpp
+  CommandTaker.cpp
+  Main.cpp
+  Generating Code...
+  cake maker.vcxproj -> C:\Users\40772\Desktop\c++\cake maker\Debug\cake maker.exe
